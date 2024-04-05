@@ -1,0 +1,86 @@
+/* login.css */
+
+body {
+    background-color: rgb(234,136,11); 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.login-container {
+    max-width: 600px;
+    background-color: rgb(51,47,38);
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-heading {
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(234,136,11); 
+}
+
+.login-form {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    width: 80%; 
+    color: #fff; 
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    font-weight: bold; /* Make labels bold */
+}
+
+.form-control {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+    color: #fff; 
+}
+
+.form-control:focus {
+    border-color: rgb(234, 130, 11);
+}
+
+.login-button {
+    background-color: rgb(234,136,11); 
+    color: #fff;
+    font-size: 18px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%; 
+}
+
+.login-button:hover {
+    background-color: rgba(233, 95, 14, 0.979);
+}
+
+.register-link a{
+    text-decoration: none;
+    color: rgb(234,136,11);
+}
+
+.error-message {
+    color: red;
+    font-weight: bold; 
+    margin-top: 10px;
+}

@@ -1,0 +1,44 @@
+/* welcome.css */
+body {
+    background-color: rgb(234,136,11); 
+}
+
+.welcome-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(51,47,38);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    text-align: center;
+}
+
+.welcome-heading {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: rgb(234,136,11);
+}
+
+p {
+    font-size: 18px;
+    color: #555; 
+}
+
+.login-button {
+    font-size: 20px;
+    background-color: rgb(234,136,11); 
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.login-button:hover {
+    background-color: rgba(233, 95, 14, 0.979);
+}

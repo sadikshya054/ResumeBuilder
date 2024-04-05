@@ -1,0 +1,12 @@
+
+admin username: admin
+password: admin123
+(You can create a new super user if you want to!)
+
+If you encounter error something like this:
+SMTPAuthenticationError at /home/
+Then:
+Step 1: Generate a new app password for your gmail account (https://myaccount.google.com/apppasswords)
+Step 2: Copy it to your clipboard
+Step 3: Navigate to your application's SMTP settings of settings.py file where you need to provide the password for accessing your Gmail account in EMAIL_HOST_PASSWORD section
+Step 4: After saving the file you will be able to run the app succesfully

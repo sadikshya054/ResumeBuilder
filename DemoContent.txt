@@ -1,0 +1,50 @@
+
+# CONTACT INFO.
+Sadikshya Shrestha
+shresthasadikshya054@gmail.com
+9818665266
+12, Balaju, Kathmandu.
+linkedin/in/sadikshyashrestha
+
+# SUMMARY
+Banged 1st prize in Fy project Based learning Competition as well as 3rd prize in PIONEER event which is a national level event. Successfully built AutoBulkMailing system, AutoBulkCertification system , Resume Builder , snake game, XO game, Lift management system program  in python and c language.
+
+Highly aimed, passionate, smart working  3rd year Computer Science student. I am a desperate python programmer with lots of experience in interesting python projects.
+
+
+# EDUCATION
+Niharika Shishu Kunja    2016   90.80%
+Trinity College          2019   85.4%
+
+# SKILLS
+Python, C, UI/UX, Leadership, Communication
+
+#AWARDS
+*1st prize in PBL competition for JET ENGINE
+*3rd prize in Irenew for JET ENGINE
+*Scholar of the Year 
+
+
+Experience
+# AutoBulkmailing System
+* Building this project was fun. Here in this project I grabbed the list of participants from the excel sheet and send them custom html embedded emails.
+
+# AutoBulkCertification System
+* This project taught me how to manipulate images. In this project I grabbed the list of participants from the excel sheet, then build custom certificates sent them on the participant's email ID.
+
+# Resume Builder
+* This is web app developed in django. This web app takes all the necessary data for the resume and then sends the resume to the user on his/her email ID.
+
+# Manager / Volunteer
+* Worked as a volunteer as well as a manager in ABHIGYAN  (an International Student Conference )for two consecutive years 
+ 2019/20
+
+# Volunteer 
+* Volunteered in my departmental club ACSES.
+
+
+
+
+
+
+
